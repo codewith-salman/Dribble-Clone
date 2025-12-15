@@ -3,11 +3,6 @@
 <br />
 <div align="center">
 
-<!-- 🔥 LOGO -->
-<img src="https://raw.githubusercontent.com/salman-webdevexp/assets/main/logo.png" alt="Dribbble Clone Logo" width="120" />
-
-<br /><br />
-
 ## 🏀 Dribbble Clone  
 A modern and visually rich **Dribbble UI Clone** built using HTML, CSS, and JavaScript.  
 Designed to replicate the look and feel of the Dribbble platform with clean layouts, card-based designs, and smooth user interactions.
