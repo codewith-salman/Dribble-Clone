@@ -1,6 +1,4 @@
 <div id="top"></div>
-
-<br />
 <div align="center">
 
 ## 🏀 Dribbble Clone  
@@ -37,7 +35,6 @@ Perfect for:
 - Card-based grid system for shots  
 - Smooth hover and transition effects  
 - Clean typography and spacing  
-- Modern and minimal UI aesthetics  
 - Lightweight and easy-to-customize structure  
 - Optimized for performance and readability  
 
