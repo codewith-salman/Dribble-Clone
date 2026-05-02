@@ -4,9 +4,9 @@
 <div align="center">
 
 <!-- 🔰 BADGES -->
-![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/dribbble-clone)
-![GitHub stars](https://img.shields.io/github/stars/codewith-salman/dribbble-clone?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewith-salman/dribbble-clone?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/codewith-salman/Dribbble-Clone)
+![GitHub stars](https://img.shields.io/github/stars/codewith-salman/Dribbble-Clone?style=social)
+![GitHub forks](https://img.shields.io/github/forks/codewith-salman/Dribbble-Clone?style=social)
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Project-brightgreen?style=for-the-badge&logo=vercel)](https://dribble-clone-blond.vercel.app/)
 
@@ -18,7 +18,7 @@
 <br />
 
 <!-- 🔰 PROJECT LOGO -->
-<img src="Dribble%20Clone/desktop.png" alt="Dribbble Clone Logo" width="120"/>
+<img src="Dribble%20Clone/favicon.png" alt="Dribbble Clone Logo" width="120"/>
 
 <br />
 <br />
