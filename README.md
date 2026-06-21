@@ -21,7 +21,6 @@
 <img src="Dribble%20Clone/favicon.png" alt="Dribbble Clone Logo" width="120"/>
 
 <br />
-<br />
 
 <h1 align="center">🏀 Dribbble Clone</h1>
 
@@ -65,8 +64,6 @@ Ideal for:
 - Social-media–style UI demonstrations  
 - Creative platform UI clones  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## ✨ Features
@@ -78,8 +75,6 @@ Ideal for:
 - Lightweight and easy-to-customize structure  
 - Optimized for performance and readability  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ---
 
 ## 🛠️ Built With
@@ -87,8 +82,6 @@ Ideal for:
 - **HTML5**  
 - **CSS3**  
 - **JavaScript (Vanilla)**  
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
