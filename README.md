@@ -69,8 +69,7 @@ Ideal for:
 ## ✨ Features
 
 - Fully responsive design showcase layout  
-- Card-based grid system for shots  
-- Smooth hover and transition effects  
+- Card-based grid system for shots   
 - Lightweight and easy-to-customize structure  
 - Optimized for performance and readability  
 
