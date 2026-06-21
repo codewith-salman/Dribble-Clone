@@ -71,7 +71,6 @@ Ideal for:
 - Fully responsive design showcase layout  
 - Card-based grid system for shots  
 - Smooth hover and transition effects  
-- Clean typography and spacing  
 - Lightweight and easy-to-customize structure  
 - Optimized for performance and readability  
 
